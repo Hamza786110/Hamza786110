@@ -1,6 +1,7 @@
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=60&pause=1000&color=61BBD5&background=0000008D&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineering+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analysis;Learning+AI+and+Machine+Learning;Growing+into+a+Data+Science+Professional" alt="Typing SVG" /></a>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=25&pause=1000&color=61BBD5&background=0000008D&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineering+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analysis;Learning+AI+and+Machine+Learning;Growing+into+a+Data+Science+Professional" alt="Typing SVG" /></a>
+</p>
 
 # Hey I'm Hamza Nathwala
 
