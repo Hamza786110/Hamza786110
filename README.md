@@ -2,13 +2,14 @@
   <h2>
  Hey I'm Hamza Nathwala,Software Engineering Student ,Aspiring Data Analyst and AI  
   </h2>
-</div>
 
 <p>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=25&pause=1000&color=61BBD5&background=1111118D&center=true&vCenter=true&repeat=false&random=true&width=500&height=150&lines=Software+Engineering+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analysis;Learning+AI+and+Machine+Learning;Growing+into+Data+Science"/>
 </a>
 </p>
+</div>
+
 
 # 💫 About Me: 
 I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in **data analysis and problem-solving**.
