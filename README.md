@@ -1,11 +1,9 @@
+<div align="center">
 # Hey I'm Hamza Nathwala
 
 Software Engineering Student  
 Aspiring Data Analyst and AI  
-
 </div>
-
-<div align="center">
 
 <p>
 <a href="https://git.io/typing-svg">
@@ -13,7 +11,9 @@ Aspiring Data Analyst and AI
 </a>
 </p>
 
-# 💫 About Me: I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in **data analysis and problem-solving**. I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
+# 💫 About Me: 
+I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in **data analysis and problem-solving**.
+I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
 
 <a href="https://linkedin.com/in/hamza nahwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nahwala" height="30" width="40" /></a>
 </p>
