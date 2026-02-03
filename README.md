@@ -1,3 +1,10 @@
+# Hey I'm Hamza Nathwala
+
+Software Engineering Student  
+Aspiring Data Analyst and AI  
+
+</div>
+
 <div align="center">
 
 <p>
@@ -6,75 +13,27 @@
 </a>
 </p>
 
-# Hey I'm Hamza Nathwala
+# 💫 About Me: I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in **data analysis and problem-solving**. I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
 
-Software Engineering Student  
-Aspiring Data Analyst and AI  
+<a href="https://linkedin.com/in/hamza nahwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nahwala" height="30" width="40" /></a>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-## 💫 About Me
-
-I am a Software Engineering student at IIIT Vadodara  
-with a strong interest in **data analysis and problem-solving**.  
-I enjoy working with data, finding patterns, and turning raw information into meaningful insights.  
-Alongside technology, I also love to play ping-pong and football which helps me stay energized.
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hamza%20Nathwala)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.parvezali@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I’m Currently Doing
-
+## What I’m Currently Doing 
 - Learning and practicing **Data Analysis**
 - Working with **Python, Pandas, NumPy, SQL**
 - Building **EDA and SQL-based projects**
-- Improving **Data Visualization**
-- Strengthening analytical thinking
+- Improving my understanding of **data visualization**
+- Strengthening problem-solving and analytical thinking
 
-</div>
+## What I Want to Do Next 
+- Become a **skilled Data Analyst**
+- Learn **Machine Learning fundamentals**
+- Build real-world **data-driven projects**
+- Create a strong portfolio on GitHub
+- Grow professionally in the **Data Science field**
 
----
 
-<div align="center">
 
-## 🎯 What I Want to Do Next
+<h3 align="left"># 💻 Tech Stack:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-- Become a **Skilled Data Analyst**
-- Learn **Machine Learning**
-- Build **Real-world Projects**
-- Create a strong GitHub portfolio
-- Grow in the **Data Science Field**
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
