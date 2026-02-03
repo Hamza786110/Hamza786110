@@ -41,6 +41,7 @@ Alongside technology , I also love to play ping-pong and football  which helps m
 ![](https://nirzak-streak-stats.vercel.app/?user=Hamza786110&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza786110&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
 [![](https://visitcount.itsvg.in/api?id=Hamza786110&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
