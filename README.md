@@ -1,5 +1,7 @@
 <div align="center">
-## Hey I'm Hamza Nathwala,Software Engineering Student ,Aspiring Data Analyst and AI  
+  <h2>
+ Hey I'm Hamza Nathwala,Software Engineering Student ,Aspiring Data Analyst and AI  
+  </h2>
 </div>
 
 <p>
