@@ -7,7 +7,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=25&pause=1000&color=61BBD5&background=1111118D&center=true&vCenter=true&repeat=false&random=true&width=500&height=150&lines=Software+Engineering+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analysis;Learning+AI+and+Machine+Learning;Growing+into+Data+Science"/>
 </a>
-  <a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -17,6 +16,7 @@ I am a Software Engineering student at IIIT Vadodara<br> with a strong interest 
 I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
 
 <a href="https://linkedin.com/in/hamza nahwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nahwala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 </p>
 
 ## What I’m Currently Doing 
