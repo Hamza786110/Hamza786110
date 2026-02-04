@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
- Hey I'm Hamza Nathwala,Software Engineering Student ,Aspiring Data Analyst and AI  
+ Hello, I'm Hamza Nathwala
   </h2>
 
 <p>
@@ -16,6 +16,7 @@ I am a Software Engineering student at IIIT Vadodara<br> with a strong interest 
 I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
 
 <a href="https://linkedin.com/in/hamza nahwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nahwala" height="30" width="40" /></a>
+<a href="https://kaggle.com/hamza nathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamza nathwala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 </p>
 
