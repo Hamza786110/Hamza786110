@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
- Hello 🤟👋, I'm Hamza Nathwala
+ Hello 🤟👋, I'm Hamza 
   </h2>
 
 <p>
@@ -20,14 +20,15 @@ I enjoy working with data, finding patterns, and turning raw information into me
 <a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 </p>
 
-## What I’m Currently Doing 
+# What I’m Currently Doing 
+
 - Learning and practicing **Data Analysis**
 - Working with **Python, Pandas, NumPy, SQL**
 - Building **EDA and SQL-based projects**
 - Improving my understanding of **data visualization**
 - Strengthening problem-solving and analytical thinking
 
-## What I Want to Do Next 
+# What I Want to Do Next 
 - Become a **skilled Data Analyst**
 - Learn **Machine Learning fundamentals**
 - Build real-world **data-driven projects**
@@ -41,7 +42,7 @@ I enjoy working with data, finding patterns, and turning raw information into me
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<!-- <div align="center"> -->
   
 ![](https://github-readme-stats.vercel.app/api?username=Hamza786110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hamza786110&theme=dark&hide_border=false)<br/>
@@ -50,7 +51,7 @@ I enjoy working with data, finding patterns, and turning raw information into me
 [![](https://visitcount.itsvg.in/api?id=Hamza786110&icon=0&color=0)](https://visitcount.itsvg.in)
 
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<!-- </div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza786110/Hamza786110/output/pacman-contribution-graph-dark.svg">
