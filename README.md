@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
- Hello 🤟👋, I'm Hamza 
+ Hello 👋, I am Hamza 
   </h2>
 
 <p>
@@ -50,7 +50,6 @@ I enjoy working with data, finding patterns, and turning raw information into me
 
 [![](https://visitcount.itsvg.in/api?id=Hamza786110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <!-- </div> -->
 
 <picture>
