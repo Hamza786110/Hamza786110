@@ -1,44 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hamza%20Nathwala&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
+  <h2>
+ Hello 👋, I am Hamza 
+  </h2>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Hamza786110">
-    <img src="https://komarev.com/ghpvc/?username=Hamza786110&label=Profile%20views&color=00FFFF&style=flat-square" alt="Hamza786110's profile views" />
-  </a>
+<p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=25&pause=1000&color=61BBD5&background=1111118D&center=true&vCenter=true&repeat=false&random=true&width=500&height=150&lines=Software+Engineering+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Analysis;Learning+AI+and+Machine+Learning;Growing+into+Data+Science"/>
+</a>
+</p>
+</div>
+
+
+# 💫 About Me: 
+I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in **data analysis and problem-solving**.
+I enjoy working with data, finding patterns, and turning raw information into meaningful insights. Alongside technology , I also love to play ping-pong and football which helps me stay energized and keeps me fit.
+
+<a href="https://www.linkedin.com/in/hamza-nathwala-701b99336/?trk=opento_sprofile_details" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nahwala" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamza nathwala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+# What I’m Currently Doing 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Hamza786110">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamza786110&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Hamza786110's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Hamza786110&theme=radical&hide_border=true&cache_seconds=86400" alt="Hamza786110's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Hamza786110&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hamza Nathwala's GitHub Trophies" />
-</p>
+- Learning and practicing **Data Analysis**
+- Working with **Python, Pandas, NumPy, SQL**
+- Building **EDA and SQL-based projects**
+- Improving my understanding of **data visualization**
+- Strengthening problem-solving and analytical thinking
+
+# What I Want to Do Next 
+- Become a **skilled Data Analyst**
+- Learn **Machine Learning fundamentals**
+- Build real-world **data-driven projects**
+- Create a strong portfolio on GitHub
+- Grow professionally in the **Data Science field**
 
 
-## 🛠️ Languages & Tools
-
+# 🧰 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
-<p align="center">
-  <a href="https://github.com/Hamza786110">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamza786110&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+# 📊 GitHub Stats:
 
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/hamza-nathwala-701b99336/?trk=opento_sprofile_details" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Hamza Nathwala's LinkedIn"/></a> <a href="mailto:hamza.parvezali@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hamza Nathwala's Email"/></a> <a href="https://wa.me/919016734642" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+<!-- <div align="center"> -->
+  
+![](https://github-readme-stats.vercel.app/api?username=Hamza786110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamza786110&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza786110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Hamza786110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
-</div>
+<!-- </div> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza786110/Hamza786110/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza786110/Hamza786110/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamza786110/Hamza786110/output/pacman-contribution-graph.svg">
+</picture>
 
