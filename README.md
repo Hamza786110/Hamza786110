@@ -39,8 +39,6 @@ I enjoy working with data, finding patterns, and turning raw information into me
 # Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/hamza-nathwala-701b99336/?trk=opento_sprofile_details" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>
 <a href="https://wa.me/919016734642" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a>
-<a href="https://www.kaggle.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamza nathwala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hamzanathwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzanathwala" height="30" width="40" /></a>
 <a href="mailto:hamza.parvezali@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
 </p>
 
