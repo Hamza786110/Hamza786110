@@ -33,9 +33,6 @@ I enjoy working with data, finding patterns, and turning raw information into me
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Hamza786110&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hamza Nathwala's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza786110&theme=dracula&radius=10" alt="Hamza786110's Activity Graph" />
-</p>
 
 # Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/hamza-nathwala-701b99336/?trk=opento_sprofile_details" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>
