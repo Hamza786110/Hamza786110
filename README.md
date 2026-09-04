@@ -5,20 +5,23 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 <h1 align="center"> About Me </h1>
-I am a Software Engineering student at IIIT Vadodara<br> with a strong interest in data engineering and AI engineering.
+I am a Software Engineering student at IIIT Vadodara with a strong interest in data engineering and AI engineering.
 I enjoy wrangling messy data into something usable and occasionally convincing a model to do what I actually want instead of what I accidentally told it to do.
 
 <h1 align="center"> What I'm Currently Doing </h1>
-- Building data pipelines
-- Exploring AI engineering and Gen AI learning RAG and Security features for scalability 😭
-- Strengthening problem-solving skills, one gfg tab at a time
+<ul>
+  <li>Building data pipelines</li>
+  <li>Exploring AI engineering and Gen AI — learning RAG and Security features for scalability 😭</li>
+  <li>Strengthening problem-solving skills, one gfg tab at a time</li>
+</ul>
 
 <h1 align="center"> What I Want to Do Next </h1>
-- Become a skilled Data Engineer who doesn't fear a broken ETL job
-- Go deeper into AI Engineering and build things that are smart
-- Ship projects that work outside of my laptop too
+<ul>
+  <li>Become a skilled Data Engineer who doesn't fear a broken ETL job</li>
+  <li>Go deeper into AI Engineering and build things that are smart</li>
+  <li>Ship projects that work outside of my laptop too</li>
+</ul>
 
-<br>
 <br>
 
 <h1 align="center">Tech Stack : Things i feel so i know...</h1>
@@ -128,7 +131,8 @@ I enjoy wrangling messy data into something usable and occasionally convincing a
   </tr>
 </table>
 
-# GitHub Stats & Trophies
+<br>
+<h1 align="center"> GitHub Stats & Trophies </h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hamza786110&theme=dracula&hide_border=true&cache_seconds=86400" alt="Hamza786110's GitHub Streak" width="49%" />
