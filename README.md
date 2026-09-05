@@ -101,6 +101,10 @@ I enjoy wrangling messy data into something usable and occasionally convincing a
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
       <br><sub><b>Excel</b></sub>
     </td>
+      <td align="center" width="90">
+         <img width="45" height="45" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
+      <br><sub><b>matplotlib</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -128,9 +132,12 @@ I enjoy wrangling messy data into something usable and occasionally convincing a
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
       <br><sub><b>Postman</b></sub>
     </td>
+      <td align="center" width="90">
+      <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" />      
+      <br><sub><b>Jupyter</b></sub>
+    </td>
   </tr>
 </table>
-
 <br>
 <h1 align="center"> GitHub Stats & Trophies </h1>
 
