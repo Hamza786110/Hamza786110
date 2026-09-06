@@ -8,7 +8,7 @@
 I am a Software Engineering student at IIIT Vadodara with a strong interest in data engineering and AI engineering.
 I enjoy wrangling messy data into something usable and occasionally convincing a model to do what I actually want instead of what I accidentally told it to do.
 
-<h1 align="center"> What I'm Currently Doing </h1>
+<!-- <h1 align="center"> What I'm Currently Doing </h1>
 <ul>
   <li>Building data pipelines</li>
   <li>Exploring AI engineering and Gen AI — learning RAG and Security features for scalability 😭</li>
@@ -22,7 +22,7 @@ I enjoy wrangling messy data into something usable and occasionally convincing a
   <li>Ship projects that work outside of my laptop too</li>
 </ul>
 
-<br>
+<br> -->
 
 <h1 align="center">Tech Stack : Things i feel so i know...</h1>
 
