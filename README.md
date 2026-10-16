@@ -6,7 +6,7 @@
 
 <h1 align="center"> About Me </h1>
 I am a Software Engineering student at IIIT Vadodara with a strong interest in data engineering and AI engineering.
-I enjoy wrangling messy data into something usable and occasionally convincing a model to do what I actually want instead of what I accidentally told it to do.
+I enjoy wrangling around messy, data change it into something usable and occasionally convincing a model to do what I actually want instead of what I accidentally told it to do.
 
 <!-- <h1 align="center"> What I'm Currently Doing </h1>
 <ul>
