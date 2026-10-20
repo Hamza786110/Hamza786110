@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 <h1 align="center"> About Me </h1>
-I am a Software Engineering student at IIIT Vadodara with a strong interest in data engineering and AI engineering.
+I am a Software Engineering student at IIIT Vadodara with a strong interest in AI and Data engineering.
 I enjoy wrangling around messy, data change it into something usable and occasionally convincing a model to do what I actually want instead of what I accidentally told it to do.
 
 <!-- <h1 align="center"> What I'm Currently Doing </h1>
