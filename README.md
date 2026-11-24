@@ -24,7 +24,7 @@ I enjoy wrangling around messy, data change it into something usable and occasio
 
 <br> -->
 
-<h1 align="center">Tech Stack : Things i feel so i know...</h1>
+<h1 align="center">Tech Stack</h1>
 
 <table align="center">
   <tr>
